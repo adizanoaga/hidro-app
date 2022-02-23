@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hidro-app/static/css/main.abd64e84.css",
+    "main.js": "/hidro-app/static/js/main.af04ebf9.js",
+    "index.html": "/hidro-app/index.html",
+    "main.abd64e84.css.map": "/hidro-app/static/css/main.abd64e84.css.map",
+    "main.af04ebf9.js.map": "/hidro-app/static/js/main.af04ebf9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.af04ebf9.js"
+  ]
+}
